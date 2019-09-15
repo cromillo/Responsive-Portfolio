@@ -4,6 +4,10 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
+.titleName {
+  font-family: 'Rock Salt', cursive;
+}
+
 .backgroundimg {
   background-image: url('img/abstract-wave.jpg');
   background-size: cover;
