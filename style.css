@@ -8,7 +8,7 @@ body {
   font-family: 'Rock Salt', cursive;
 }
 
-.backgroundimg {
+.backgroundimg1 {
   background-image: url('img/abstract-wave.jpg');
   background-size: cover;
   background-position: center center;
@@ -19,4 +19,70 @@ body {
   width: 100%;
 }
 
+.backgroundimg2 {
+  background-image: url('img/abstract-wave.jpg');
+  background-size: cover;
+  background-position: center center;
+  margin-right: 0px;
+  margin-left: 0px;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 100%;
+}
 
+.backgroundimg3 {
+  background-image: url('img/abstract-wave.jpg');
+  background-size: cover;
+  background-position: center center;
+  margin-right: 0px;
+  margin-left: 0px;
+  background-repeat: no-repeat;
+  height: 150vh;
+  width: 100%;
+}
+
+.thumbnail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 45%;
+  left: 0;
+  width: 200px;
+}
+
+.portPics1 {
+  width: 200px;
+  position: relative;
+  left: -48px;
+  top: -85px;
+}
+
+.portPics2 {
+  width: 200px;
+  position: relative;
+  left: 48px;
+  top: -85px;
+}
+
+.portPics3 {
+  width: 200px;
+  position: relative;
+  left: -48px;
+  top: -85px;
+}
+
+.portPics4 {
+  width: 200px;
+  position: relative;
+  left: -48px;
+  top: -85px;
+}
+
+.portPics5 {
+  width: 200px;
+  position: relative;
+  left: -48px;
+  top: -85px;
+}
