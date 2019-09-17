@@ -86,3 +86,172 @@ body {
   left: -48px;
   top: -85px;
 }
+
+
+
+@media screen and (max-width: 780px){
+
+  .backgroundimg1 {
+  height: 250vh;
+  width: 100%;
+}
+
+  .backgroundimg2 {
+  height: 250vh;
+  width: 100%;
+}
+
+  .backgroundimg3 {
+  height: 250vh;
+  width: 100%;
+}
+
+.img-thumbnail {
+   
+  max-width: 50%;
+  height: auto;
+  position: relative;
+  left: 25%;
+  
+}
+ 
+ p { font-size: 1;
+    margin-top: 20px;
+
+ }
+
+ .cats {
+  position: relative;
+  right: 18%;
+ }
+
+ .catsCaption {
+  position: relative;
+  right: 86px;
+ }
+
+ .crossfit {
+  position: relative;
+  left: 20%;
+}
+
+.crossfitCaption {
+  position: relative;
+  left: 95px;
+}
+
+.lgbtq {
+  position: relative;
+  right: 18%;
+ }
+
+ .lgbtqCaption {
+  position: relative;
+  right: 86px;
+ }
+
+ .football {
+  position: relative;
+  left: 20%;
+}
+
+.footballCaption {
+  position: relative;
+  left: 95px;
+}
+
+  .homeReno {
+    position: relative;
+    right: 18%;
+   }
+  
+   .homeRenoCaption {
+    position: relative;
+    right: 86px;
+   }
+
+
+ @media screen and (max-width: 400px){
+
+  h1 {text-align: left;
+  }
+
+  p {font-size: 13px;
+  }
+
+ .img-thumbnail {
+   max-width: 75%;
+   position: relative;
+   left: 12.5%;
+ }
+
+ .cats {
+  max-width: 90%;
+  height: auto;
+ position: relative;
+ left: 5%;
+}
+
+.catsCaption {
+ position: relative;
+ left: 55.5px;
+ bottom:-10px;
+ width: 131px;
+}
+
+.crossfit {
+  max-width: 90%;
+  height: auto;
+ position: relative;
+ left: -27%;
+
+}
+
+.crossfitCaption {
+ position: relative;
+ left: -39.5px;
+ width: 131px;
+ bottom: -10px
+}
+
+.lgbtq {
+  max-width: 90%;
+  height: auto;
+ position: relative;
+ left: 5%;
+}
+
+.lgbtqCaption {
+ position: relative;
+ left: 55.5px;
+ bottom:-10px;
+ width: 131px;
+}
+
+.football {
+  max-width: 90%;
+  height: auto;
+ position: relative;
+ left: -27%;
+}
+
+.footballCaption {
+  position: relative;
+ left: -39.5px;
+ width: 131px;
+ bottom: -10px
+}
+
+ .homeReno {
+   max-width: 90%;
+  height: auto;
+ position: relative;
+ left: 5%;
+  }
+ 
+  .homeRenoCaption {
+   position: relative;
+ left: 55.5px;
+ bottom:-10px;
+ width: 131px;
+  }
