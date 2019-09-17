@@ -88,7 +88,7 @@ body {
 }
 
 
-
+/* Media Query with max-width 780px*/
 @media screen and (max-width: 780px){
 
   .backgroundimg1 {
@@ -170,6 +170,7 @@ body {
     right: 86px;
    }
 
+/* Media Query with max-width 400px*/
 
  @media screen and (max-width: 400px){
 
