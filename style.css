@@ -189,28 +189,28 @@ body {
   max-width: 90%;
   height: auto;
  position: relative;
- left: 5%;
+ left: -6%;
 }
 
 .catsCaption {
  position: relative;
- left: 55.5px;
+ left: -20px;
  bottom:-10px;
- width: 131px;
+ width: 200px;
 }
 
 .crossfit {
   max-width: 90%;
   height: auto;
  position: relative;
- left: -27%;
+ left: 6%;
 
 }
 
 .crossfitCaption {
  position: relative;
- left: -39.5px;
- width: 131px;
+ left: 20px;
+ width: 200px;
  bottom: -10px
 }
 
@@ -218,40 +218,41 @@ body {
   max-width: 90%;
   height: auto;
  position: relative;
- left: 5%;
+ left: -6%;
 }
 
 .lgbtqCaption {
  position: relative;
- left: 55.5px;
+ left: -20px;
  bottom:-10px;
- width: 131px;
+ width: 200px;
 }
 
 .football {
   max-width: 90%;
   height: auto;
  position: relative;
- left: -27%;
+ left: 6%;
 }
 
 .footballCaption {
-  position: relative;
- left: -39.5px;
- width: 131px;
+ position: relative;
+ left: 20px;
+ width: 200px;
+ bottom: -10px
  bottom: -10px
 }
 
  .homeReno {
-   max-width: 90%;
+  max-width: 90%;
   height: auto;
  position: relative;
- left: 5%;
+ left: -6%;
   }
  
   .homeRenoCaption {
-   position: relative;
- left: 55.5px;
+ position: relative;
+ left: -20px;
  bottom:-10px;
- width: 131px;
+ width: 200px;
   }
